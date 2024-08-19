@@ -102,6 +102,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 If you have any questions, suggestions, or issues, please feel free to contact me at:
 
-Email: your.email@example.com
+Email: mrbharath55@gmail.com
 GitHub: yourusername
 Thank you for using the Online Mobile Shopping Web App! Happy shopping!
